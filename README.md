@@ -1,10 +1,5 @@
 # Sanket Patel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](#)
-
-Mississauga, ON | (+1) 226-637-2498 | patelsanketr98@gmail.com
-
 ---
 
 ### 👨🏻‍💻 About Me
@@ -18,4 +13,4 @@ I'm a dedicated software engineer specializing in full-stack and mobile developm
 ---
 
 ### 📫 Contact
-Feel free to reach out via [LinkedIn](#) or email at patelsanketr98@gmail.com.
+Feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketpatel98/) or [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelsanketr98@gmail.com).
