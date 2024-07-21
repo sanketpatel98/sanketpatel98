@@ -1,16 +1,21 @@
-## Hi there 👋
+# Sanket Patel
 
-<!--
-**sanketpatel98/sanketpatel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](#)
 
-Here are some ideas to get you started:
+Mississauga, ON | (+1) 226-637-2498 | patelsanketr98@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨🏻‍💻 About Me
+I'm a software engineer specializing in full-stack and mobile development, passionate about solving complex problems and delivering high-quality solutions.
+
+---
+
+### 🛠️ My Skills
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,c,cpp,python,angular,spring,react,redux,nodejs,nestjs,bootstrap,materialui,android,dotnet,mysql,postgresql,mongodb,dynamodb,aws,gcp,docker,kubernetes,heroku,netlify&perline=7" />
+
+---
+
+### 📫 Contact
+Feel free to reach out via [LinkedIn](#) or email at patelsanketr98@gmail.com.
