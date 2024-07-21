@@ -13,4 +13,4 @@ I'm a dedicated software engineer specializing in full-stack and mobile developm
 ---
 
 ### 📫 Contact
-Feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketpatel98/) or [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:patelsanketr98@gmail.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketpatel98/)   [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:patelsanketr98@gmail.com).
